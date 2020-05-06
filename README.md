@@ -1,5 +1,5 @@
 # registry-cleanup
-Script to cleanup docker registry
+Script to cleanup docker registry test
 
 ## Default Config
 
